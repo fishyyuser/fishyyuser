@@ -8,26 +8,28 @@ I value strong fundamentals and care about how ML systems behave in real-world c
 
 ## 🧠 Focus Areas
 
-• End-to-end ML pipelines  
-• Computer Vision (OpenCV + DL)  
-• NLP (sequence models, attention)  
-• Model evaluation & experiment tracking  
-• Containerized ML services & APIs  
+- End-to-end ML pipelines  
+- Computer Vision (OpenCV + DL)  
+- NLP (sequence models, attention)  
+- Model evaluation & experiment tracking  
+- Containerized ML services & APIs  
 
 
 
 ## 🚀 Selected Work
-• **Sudoku Solver** — CV + DL system with API & Android integration  
-• **Phishing Detection Pipeline** — MLflow + Dockerized ML service  
-• **Emotion Classification** — BiLSTM + Attention  
-• **Advent of Code** — algorithmic problem solving (graphs, DP, backtracking)
+-  **Sudoku Solver** — CV + DL system with API & Android integration  
+-  **Phishing Detection Pipeline** — MLflow + Dockerized ML service  
+-  **Emotion Classification** — BiLSTM + Attention  
+-  **Advent of Code** — algorithmic problem solving (graphs, DP, backtracking)
 
 (See pinned repositories.)
 
 
 
 ## 🎯 Career Interests
-ML Engineer · AI Engineer · Applied ML / ML Systems roles
+- ML Engineer
+- AI Engineer
+- Applied ML / ML Systems roles
 
 
 ## 🌐 Socials:
