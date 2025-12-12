@@ -1,4 +1,4 @@
-Hi, I’m Pradyumn 👋
+# Hi, I’m Pradyumn 👋
 
 I’m an ML-focused engineer interested in building practical, end-to-end machine learning systems — from data preprocessing and model training to deployment and iteration.
 
