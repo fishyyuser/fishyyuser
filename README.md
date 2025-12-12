@@ -4,7 +4,7 @@ I’m an ML-focused engineer interested in building practical, end-to-end machin
 
 I care about strong fundamentals and prefer understanding why systems work before scaling them. Once the core idea clicks, I focus on execution and shipping usable systems.
 
----
+
 
 🧠 What I work on
 
@@ -16,7 +16,7 @@ I care about strong fundamentals and prefer understanding why systems work befor
 
 I’m especially interested in applied ML problems where models interact with real constraints like latency, APIs, and imperfect data.
 
----
+
 
 🛠️ Tech Stack
 
@@ -43,7 +43,7 @@ Tooling
 • Jupyter / Python scripts  
 • Basic Android (Java) for ML integration  
 
----
+
 
 🚀 Selected Projects
 
@@ -62,7 +62,7 @@ Tooling
 
 (See pinned repositories for details.)
 
----
+
 
 📚 Learning Focus
 
@@ -72,7 +72,7 @@ Tooling
 
 I prioritize learning topics that translate directly into building and deploying real systems.
 
----
+
 
 🎯 Career Interests
 
@@ -80,7 +80,7 @@ I prioritize learning topics that translate directly into building and deploying
 • Applied ML and ML systems roles  
 • Teams that value fundamentals, ownership, and execution
 
----
+
 
 📌 How I work
 
@@ -89,9 +89,9 @@ I prioritize learning topics that translate directly into building and deploying
 • Bias toward shipping functional systems  
 • Comfortable iterating and improving based on feedback
 
----
+
 
 📫 Connect
 
-• GitHub: https://github.com/fishyyuser
-• mail: pradyumbisht31@gmail.com
+- GitHub: https://github.com/fishyyuser
+- mail: pradyumbisht31@gmail.com
