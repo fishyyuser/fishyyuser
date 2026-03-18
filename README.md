@@ -27,7 +27,6 @@ I value strong fundamentals and care about how ML systems behave in real-world c
 
 
 ## 🎯 Career Interests
-- ML Engineer
 - AI Engineer
 - Applied ML / ML Systems roles
 
