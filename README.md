@@ -1,43 +1,46 @@
 # Hi, I’m Pradyumn 👋
 
-I’m an ML-focused engineer interested in building practical, end-to-end machine learning systems — from data preprocessing and model training to deployment and iteration.
+Backend Engineer with a focus on ML-powered systems. I build end-to-end applications that combine data pipelines, model inference, and scalable APIs.
 
-I value strong fundamentals and care about how ML systems behave in real-world conditions: APIs, latency, imperfect data, and iteration.
-
-
-
-## 🧠 Focus Areas
-
-- End-to-end ML pipelines  
-- Computer Vision (OpenCV + DL)  
-- NLP (sequence models, attention)  
-- Model evaluation & experiment tracking  
-- Containerized ML services & APIs  
+I care about real-world behavior — latency, async processing, failure handling, and working with imperfect data — not just model accuracy.
 
 
 
-## 🚀 Selected Work
--  **Sudoku Solver** — CV + DL system with API & Android integration  
--  **Phishing Detection Pipeline** — MLflow + Dockerized ML service  
--  **Emotion Classification** — BiLSTM + Attention  
--  **Advent of Code** — algorithmic problem solving (graphs, DP, backtracking)
+## 🧠 What I Work On
 
-(See pinned repositories.)
-
-
-
-## 🎯 Career Interests
-- AI Engineer
-- Applied ML / ML Systems roles
+- Backend systems for ML applications (FastAPI, async workers, APIs)
+- End-to-end ML pipelines (training → evaluation → deployment)
+- Computer Vision & NLP in production settings
+- Job queues, background processing, and system design
+- Dockerized services and cloud deployment (AWS)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradyumn-bisht-041164234) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pradyumnbisht31@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000)](https://leetcode.com/u/pradybisht/)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## 🚀 Selected Projects
+
+- **Document Processing Pipeline**  
+  Async backend system with OCR + NER, Redis queue, FastAPI, Docker
+
+- **Sudoku Solver System**  
+  OpenCV + CNN pipeline with Flask API + Android client
+
+- **Phishing Detection ML Pipeline**  
+  End-to-end ML system with MLflow tracking and deployment
+
+- **Advent of Code 2025**  
+  Consistent problem solving (graphs, DP, backtracking)
 
 
-[![](https://visitcount.itsvg.in/api?id=fishyyuser&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 Currently Targeting
+
+- Backend Engineer (Python)
+- ML Systems / Applied ML Roles
+
+
+
+## 🌐 Connect
+
+- LinkedIn: https://linkedin.com/in/pradyumn-bisht-041164234  
+- Email: pradyumnbisht31@gmail.com  
+- LeetCode: https://leetcode.com/u/pradybisht/
